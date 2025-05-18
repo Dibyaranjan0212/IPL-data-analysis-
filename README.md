@@ -2,22 +2,16 @@
 
 This project demonstrates end-to-end data engineering and analytics using **PySpark**, **SQL**, and basic data visualization tools. It focuses on analyzing IPL (Indian Premier League) match data from two CSV files: `matches.csv` and `deliveries.csv`.
 
----
-
 ## 🔧 Tech Stack
 
 - **PySpark**: For scalable data transformation and processing  
 - **Matplotlib**: For basic data visualizations  
 - **Databricks Notebook**: Development environment
 
----
-
 ## 📂 Dataset Description
 
 - **`matches.csv`**: Contains metadata about each match (e.g., teams, toss winner, match result)  
 - **`deliveries.csv`**: Ball-by-ball delivery data with runs, wickets, and player actions
-
----
 
 ## ✅ Project Workflow
 
@@ -43,7 +37,6 @@ Plotted:
 - Top 10 batsmen by total runs  
 - Toss impact visualizations
 
----
 
 ## 🧠 Future Improvements
 
